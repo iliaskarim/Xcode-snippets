@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vm</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>private final class ViewModel: ObservableObject {
+  @Published var &lt;#name: Type#&gt;
+}
+
+@StateObject private var viewModel = ViewModel()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3919BDA8-3A62-4288-BB08-E8EE5366BE63</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Boilerplate code to declare a barebones SwiftUI view model in a SwiftUI view</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>View model boilerplate</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
