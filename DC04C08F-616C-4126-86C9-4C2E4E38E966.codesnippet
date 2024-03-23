@@ -9,18 +9,19 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fatalError("to do")</string>
+	<string>#warning("to do")
+fatalError("to do")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC04C08F-616C-4126-86C9-4C2E4E38E966</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Crash on unimplemented code paths</string>
+	<string>Warn/crash on unimplemented code paths</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>To do</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
