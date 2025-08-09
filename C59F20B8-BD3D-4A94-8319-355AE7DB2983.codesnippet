@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>struct &lt;#View#&gt;_Previews: PreviewProvider {
-  @State static private var &lt;#x#&gt; = &lt;#y#&gt;
+  @State private static var &lt;#name#&gt;: &lt;#Type#&gt;
   
   static var previews: some View {
-    &lt;#View#&gt;().frame(height: 250)
+    &lt;#View#&gt;()
   }
 }
 </string>
